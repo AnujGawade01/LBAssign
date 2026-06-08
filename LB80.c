@@ -1,4 +1,4 @@
-/* 4. Accept N numbers from user and display summation of digits of each number */
+/* 5. Accept N numbers from user and display summation of digits of each number */
 #include<stdio.h>
 #include<stdlib.h>
 
