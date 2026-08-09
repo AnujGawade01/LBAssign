@@ -34,11 +34,10 @@ class LB250
             {
                 for (File file : fileList) 
                 {
-                    if (file.isFile()) 
-                    {
-                        System.out.println("File Name: " + file.getName() + " | Size: " + file.length() + " bytes");
-                        fileCount++;
-                    }
+                    
+                    System.out.println("File Name: " + file.getName() + " | Size: " + file.length() + " bytes");
+                    fileCount++;
+                    
                 }
                 
                 if (fileCount == 0) 
