@@ -9,7 +9,7 @@
 import java.util.*;
 import java.io.*;
 
-class LB244
+class LB250
 {
     public static void main(String Args[]) throws Exception
     {
