@@ -2,7 +2,7 @@
 
 /*///////////////////////////////////////////////////////////////////////////////////////
 
-2 . A telecom company bills calls based on duration slabs. The system needs to calculate 
+5 . A telecom company bills calls based on duration slabs. The system needs to calculate 
 final charge for a given call duration
 
 Rules:
