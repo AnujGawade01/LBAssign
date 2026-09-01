@@ -55,14 +55,9 @@ class LB327
         {
             for (File file : fileList) 
             {
-                if (file.isDirectory()) 
-                {
-                    System.out.println("[DIR]  " + file.getName());
-                } 
-                else 
-                {
-                    System.out.println("[FILE] " + file.getName());
-                }
+                
+                System.out.println(file.getName());
+                
             }
         }
 
