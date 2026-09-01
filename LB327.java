@@ -16,7 +16,7 @@ Requirements
 import java.util.*;
 import java.io.*;
 
-class LB326
+class LB327
 {
     public static void main(String A[])
     {
